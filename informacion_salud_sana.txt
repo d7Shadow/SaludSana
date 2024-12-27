@@ -1,0 +1,23 @@
+//Aqui se guardan los datos registrados. 
+
+Usuario: Juan
+Clave: Pedro
+----------------------------------------
+Usuario: BBB
+Clave: BBB
+----------------------------------------
+DNI: NNNNNNN
+Nombre: BBB
+Apellido: BBB
+ID Asignado: BBBBBBBB
+Colegio: BBBBB
+----------------------------------------
+DNI: VVBVFFF
+Nombre: BBF
+Apellido: BB
+ID Asignado: BBBFBFBDDSD
+Colegio: BEDD
+----------------------------------------
+Usuario: JUAN
+Clave: PINEDO
+--------------------------------------
